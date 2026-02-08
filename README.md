@@ -836,7 +836,7 @@ with ThreadPoolExecutor(max_workers=3) as executor:
 
 ## Conclusion
 
-This NPI Database Scraper demonstrates advanced web scraping techniques including:
+This Vital Records Data Extraction demonstrates advanced web scraping techniques including:
 - Cloudflare bypass using undetected-chromedriver
 - Hierarchical recursive search algorithm to overcome pagination limits
 - Real-time data persistence with crash recovery
